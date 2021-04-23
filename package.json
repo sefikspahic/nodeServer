@@ -30,6 +30,8 @@
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
+    "body-parser": "^1.19.0",
+    "helmet": "^4.5.0",
     "nodemon": "^2.0.7",
     "webpack": "^5.33.2",
     "webpack-cli": "^4.6.0",
