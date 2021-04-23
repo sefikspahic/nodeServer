@@ -1,7 +1,5 @@
-# mongo-node-server
-My First Mongo NodeJS Server
-
-mongo-node-server is simple nodejs and mongodb app using express 4.
+# node-server
+My First NodeJS Server
 
 # Running Locally
 1. git clone https://...
