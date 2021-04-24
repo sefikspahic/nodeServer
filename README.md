@@ -13,7 +13,6 @@ Open http://localhost:5000
 - express
 - body-parser
 - helmet
-- mongoose
 - lodash
 - nodemon
 - webpack
